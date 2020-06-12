@@ -1,0 +1,16 @@
+.Account-Details {
+  display: flex;
+  margin-left: 37px;
+}
+.Id {
+  padding-right: 300px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(70, 65, 65);
+}
+/*.Sum {
+  background-color: rgb(110, 105, 105);
+  border-radius: 25px;
+}
+*/

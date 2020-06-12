@@ -1,0 +1,11 @@
+.Summary {
+  margin-left: 37px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(70, 65, 65);
+}
+.Summary-Details {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}

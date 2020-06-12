@@ -1,0 +1,29 @@
+.Money {
+  margin-left: 37px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(70, 65, 65);
+}
+.Table {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.Table th {
+  text-align: left;
+}
+
+.Total {
+  padding-top: 40px;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(43, 41, 41);
+}
+.Final-Amount {
+  background-color: rgb(248, 242, 242);
+  border-radius: 25px;
+  height: 35px;
+}
+.Total1 .Add {
+  padding-right: 1025px;
+}
