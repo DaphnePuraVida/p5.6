@@ -5,6 +5,7 @@ import { SubHeader } from "./SubHeader";
 import { Account } from "./Account";
 import { Transaction } from "./Transaction";
 import { Summary } from "./Summary";
+import { Footer } from "./Footer";
 function App() {
   return (
     <div>
@@ -13,6 +14,7 @@ function App() {
       <Account />
       <Transaction />
       <Summary />
+      <Footer />
     </div>
   );
 }

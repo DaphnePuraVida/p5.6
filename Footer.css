@@ -1,0 +1,22 @@
+.Page-End {
+  margin-left: 37px;
+  margin-top: 40px;
+}
+.Info {
+  display: flex;
+  font-size: 14px;
+  color: rgb(83, 81, 81);
+}
+.Info1 {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.Contact {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 14px;
+  color: rgb(83, 81, 81);
+}
+.Address {
+  text-align: center;
+}

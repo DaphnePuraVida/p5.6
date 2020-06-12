@@ -1,9 +1,10 @@
 .Account-Details {
   display: flex;
+
   margin-left: 37px;
 }
 .Id {
-  padding-right: 300px;
+  padding-right: 290px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 14px;
   font-weight: 500;
