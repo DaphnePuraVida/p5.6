@@ -25,5 +25,8 @@
   height: 35px;
 }
 .Total1 .Add {
-  padding-right: 1025px;
+  padding-right: 1020px;
+  font-size: 14px;
+  font-weight: 700px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

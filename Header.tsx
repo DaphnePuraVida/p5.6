@@ -5,9 +5,12 @@ export function Header() {
     <div className="title">
       <ul>
         <li className="Title-Header">everest</li>
+
         <li className="Title-End">
-          www.everestcard.com <br />
-          +35220331027
+          <a href="http://www.everestcard.com/">
+            www.everestcard.com <br />
+            +35220331027
+          </a>
         </li>
       </ul>
     </div>

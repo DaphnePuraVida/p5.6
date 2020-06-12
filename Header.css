@@ -13,3 +13,7 @@ li {
 .Title-End {
   color: rgb(189, 189, 189);
 }
+.Title-End a {
+  text-decoration: none;
+  color: rgb(83, 81, 81);
+}
