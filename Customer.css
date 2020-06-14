@@ -1,0 +1,13 @@
+.CardDetails {
+  margin-left: 37px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(70, 65, 65);
+}
+.Details {
+  display: flex;
+}
+span {
+  flex: 1;
+}
