@@ -45,7 +45,6 @@ export function Customer() {
           <span>{details.AmountInEUR}</span>
         </div>
       ))}
-      <div></div>
     </div>
   );
 }
