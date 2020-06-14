@@ -3,17 +3,17 @@ li {
   display: inline-flex;
   list-style-type: none;
 }
-.Title-Header {
+.TitleHeader {
   font-family: Roboto, "Segoe UI", Tahoma, sans-serif;
   letter-spacing: 10px;
   font-size: 37px;
   padding-right: 800px;
   color: rgb(58, 54, 54);
 }
-.Title-End {
+.TitleEnd {
   color: rgb(189, 189, 189);
 }
-.Title-End a {
+.TitleEnd a {
   text-decoration: none;
   color: rgb(83, 81, 81);
 }

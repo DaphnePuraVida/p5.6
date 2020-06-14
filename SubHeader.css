@@ -1,11 +1,10 @@
-.Sub-Title ul,
-li {
+.SubTitle li {
   display: inline-flex;
   list-style-type: none;
   margin-bottom: 20px;
 }
 
-.Title-Start {
+.TitleStart {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 20px;
   font-weight: 700px;

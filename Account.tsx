@@ -2,7 +2,7 @@ import * as React from "react";
 import "./Account.css";
 export function Account() {
   return (
-    <div className="Account-Details">
+    <div className="AccountDetails">
       <div className="Id">
         <h4> Customer Company SA</h4>
         <p>100, Boulevard Royal, Brussels, Belgium </p>

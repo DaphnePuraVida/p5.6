@@ -6,7 +6,7 @@ export function Summary() {
       <h3>
         Please see below a summary of your three most recent monthly statements
       </h3>
-      <div className="Summary-Details">
+      <div className="SummaryDetails">
         <div>
           <h5>PERIOD</h5>
           <p>24.04.2020 - 24.04.2020</p>

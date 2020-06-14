@@ -5,7 +5,7 @@
   font-weight: 500;
   color: rgb(70, 65, 65);
 }
-.Summary-Details {
+.SummaryDetails {
   display: grid;
   grid-template-columns: auto auto auto auto auto;
 }
