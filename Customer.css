@@ -8,6 +8,6 @@
 .Details {
   display: flex;
 }
-span {
+.Details span {
   flex: 1;
 }
